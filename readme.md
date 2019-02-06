@@ -14,3 +14,4 @@
  - [bash](/bash/readme.md)
 	- [.profile](/bash/profile.md)
 	- [.inputrc](/bash/inputrc.md)
+	- [.bashrc](/bash/bashrc.md)
