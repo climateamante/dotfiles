@@ -12,5 +12,5 @@
 
 
  - [bash](/bash/readme.md)
-	- [.profile](bash/.profile.md)
-	- [.inputrc](bash/.inputrc.md)
+	- [.profile](bash/profile.md)
+	- [.inputrc](bash/inputrc.md)
