@@ -1,5 +1,5 @@
 
-> link to raw file: [/bash/.inputrc](/bash/.inputrc)
+_link to raw file: [/bash/.inputrc](/bash/.inputrc)_
 
 > install path: `~/`
 
