@@ -1,5 +1,5 @@
-# dot files
-
+# Apps:
+ > CLI Tools, Custom Apps, And Scripts (Functions For Work Flow)
 
 #### shell script preference:`#!/usr/bin/env bash`
 
@@ -7,14 +7,6 @@
  > FreeBSD, CentOS/Ubuntu/Debian, macOS, and OpenBSD all provided `/usr/bin/env` by default.
  > versus using: `#!/bin/bash` __or__ `#!/bin/sh`
 
-
-#### settings:
- - [bash](/bash/readme.md)
-	- [.profile](/bash/profile.md)
-	- [.inputrc](/bash/inputrc.md)
-	- [.bashrc](/bash/bashrc.md)
-	
-#### apps:
  - [dockr](/app/readme.md)
  - [findr](/app/readme.md)
  - [sshh](/app/readme.md)
