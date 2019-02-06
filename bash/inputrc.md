@@ -1,4 +1,6 @@
+
 > link to raw file: [/bash/.inputrc](/bash/.inputrc)
+
 > install path: `~/`
 
 ```bash
