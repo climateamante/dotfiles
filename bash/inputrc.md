@@ -1,3 +1,6 @@
+> link to raw file: [/bash/.inputrc](/bash/.inputrc)
+> install path: `~/`
+
 ```bash
 #!/usr/bin/env bash
 # Last Updated: 02/05/2019
